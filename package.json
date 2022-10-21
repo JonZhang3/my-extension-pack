@@ -1,0 +1,44 @@
+{
+  "name": "my-extension-pack",
+  "displayName": "My Extension Pack",
+  "description": "It is my extension pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "akamud.vscode-theme-onedark",
+    "akamud.vscode-theme-onelight",
+    "Dart-Code.dart-code",
+    "Dart-Code.flutter",
+    "developersoapbox.vscode-springboot-snippets",
+    "EditorConfig.EditorConfig",
+    "GitHub.github-vscode-theme",
+    "golang.go",
+    "johnstoncode.svn-scm",
+    "MS-CEINTL.vscode-language-pack-zh-hans",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "Pivotal.vscode-boot-dev-pack",
+    "Pivotal.vscode-spring-boot",
+    "PKief.material-icon-theme",
+    "redhat.fabric8-analytics",
+    "redhat.java",
+    "redhat.vscode-xml",
+    "sohibe.java-generate-setters-getters",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "vscjava.vscode-spring-boot-dashboard",
+    "vscjava.vscode-spring-initializr",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin"
+  ]
+}
